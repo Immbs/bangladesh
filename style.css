@@ -1,8 +1,8 @@
 *{
     background-color: green;
     color: white;
-    padding: 10px;
-    margin: 1px;
+    /* padding: 0px;
+    margin: 0px; */
 }
 .bangladesh{
     text-align: center;
@@ -10,4 +10,36 @@
 }
 .navbar{
     background-color: rgb(20, 65, 20);
+    border-radius: 30px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style-type: none;
+    margin: 15px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+}
+.navbar li a:hover{
+    color: red;
+}
+.search{
+    float: right;
+    color: black;
+    padding: 12px 75px;
+}
+.navbar input{
+    border: 2px solid white;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}
+
+
+footer{
+    text-align: center;
 }
