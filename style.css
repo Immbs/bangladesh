@@ -42,6 +42,9 @@
     padding: 3px 17px;
     width: 129px;
 }
+.bangla,p,h3,b,li{
+    color: black;
+}
 
 .prb{
     color: black;
