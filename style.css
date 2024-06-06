@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(162, 228, 162);
+    background-color: rgb(162, 221, 162);
     color: white;
     /* padding: 0px;
     margin: 0px; */
@@ -41,6 +41,10 @@
     border-radius: 14px;
     padding: 3px 17px;
     width: 129px;
+}
+
+.prb{
+    color: black;
 }
  
 .small{
